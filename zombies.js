@@ -1,4 +1,4 @@
-class Zombies{
+class Zombie{
  constructor() {
   this.r = 100;
   this.x = width;
